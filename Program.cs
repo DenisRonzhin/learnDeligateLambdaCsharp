@@ -11,8 +11,8 @@ namespace LearningDeligateLambda
         static int[] massiv = new int[3];
 
         public delegate void MytestDelegate(int x);
-
-         
+ 
+//         
 
         static void Sum_1(int x, int y)
         {
